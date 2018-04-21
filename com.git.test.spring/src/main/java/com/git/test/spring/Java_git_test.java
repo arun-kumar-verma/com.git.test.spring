@@ -6,6 +6,8 @@ public class Java_git_test {
 		// TODO Auto-generated method stub
 
 		System.out.println("hello world");
+		System.out.println("checking jenkins build");
+		
 	}
 
 }
